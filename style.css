@@ -1,0 +1,38 @@
+body {
+	background-color : #292929;
+}
+
+h1 {
+	color : #00ff11;
+	text-align : center;
+	font-size : 5em;
+}
+
+h2 {
+	color : #00ff11;
+	text-align : center;
+	font-size : 2em;
+}
+
+h3 {
+	color : white;
+	text-align : center;
+	font-size : 2em;
+	font-family : Arial;
+}
+
+h4 {
+	color : white;
+	text-align : center;
+	font-size : 16pt;
+}
+
+a:hover, a:visited, a:link, a:active {
+    text-decoration: none;
+		color : yellow;
+}
+
+p {
+	color : #00ff11;
+	font-family :
+}
